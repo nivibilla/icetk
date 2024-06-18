@@ -1,5 +1,5 @@
-from .ice_tokenizer import IceTokenizer
+# from .ice_tokenizer import IceTokenizer
 
-icetk = IceTokenizer()
+# icetk = IceTokenizer()
 
 __all__ = ['icetk']
